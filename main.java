@@ -101,7 +101,7 @@ public class Main {
         int again; // used to continue or quit program
 
         //  greetings
-        System.out.println("Welcome to CIA Fact Finder!");
+        System.out.println("Welcome to The Country Fact Finder!");
         System.out.println("Here, you can learn about the unemployment, infant mortality, population, GDP and birth rates of any country you want!");
         do {
             // initialize or reset variables
