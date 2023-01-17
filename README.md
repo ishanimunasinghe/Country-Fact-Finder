@@ -1,4 +1,4 @@
-# CIA-Fact-Finder
+# Country-Fact-Finder
 
 This program parses through 200+ countries' statistics to perform data analysis based on user's requested information. 
 
